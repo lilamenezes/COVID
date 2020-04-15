@@ -1,12 +1,11 @@
 # COVID
 
-Analyze data of COVID-19 worldwide and in specific countries, such as Australia, Brazil, Chile, China, Italy, Spain, USA. 
-Calculate a percentage among the quantity of cases and deaths, and the population of these areas, and analyze if the 
-quarantine is really needed. 
+Analyze data of COVID-19 worldwide and in specific countries, such as Australia, Brazil, Chile, China, Italy, Spain, USA. Calculate a percentage among the quantity of cases and deaths, and the population of these areas, and analyze where the quarantine is really needed.
 
 
-![Figure1](https://user-images.githubusercontent.com/20528877/78395977-3ce45880-763a-11ea-8a28-71cd80ce40b6.png)
+![Figure1_15-04-20](https://user-images.githubusercontent.com/20528877/79324996-c73e8d80-7f53-11ea-9c50-2e52f04df57d.jpg)
 
-![Figure2](https://user-images.githubusercontent.com/20528877/78396058-5edddb00-763a-11ea-9d85-0cd99601ddf9.png)
+![Figure2_15-04-20](https://user-images.githubusercontent.com/20528877/79325040-d7ef0380-7f53-11ea-90f4-1c1eb076f7aa.jpg)
 
-![Figure3](https://user-images.githubusercontent.com/20528877/78396101-7321d800-763a-11ea-882b-354dcf4cf153.png)
+![Figure3_15-04-20](https://user-images.githubusercontent.com/20528877/79325074-e2a99880-7f53-11ea-93c3-7e8b68e81cff.jpg)
+
